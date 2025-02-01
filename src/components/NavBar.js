@@ -60,7 +60,7 @@ export const NavBar = () => {
                   <img src={navIcon3} alt="Instagram" />
                 </a>
                 </div>
-                    <a href="https://wa.me/054984248922" target="_blank" rel="noopener noreferrer">
+                    <a href="https://wa.me/5554984248922" target="_blank" rel="noopener noreferrer">
                       <button className="vvd"><span>Entre em Contato</span></button>
                     </a>
             </span>
