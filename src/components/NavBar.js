@@ -59,10 +59,10 @@ export const NavBar = () => {
                 <a href="https://www.instagram.com/vitoriatml" target="_blank" rel="noopener noreferrer">
                   <img src={navIcon3} alt="Instagram" />
                 </a>
-              </div>
-              <HashLink to='#connect'>
-                <button className="vvd"><span>Entre em Contato</span></button>
-              </HashLink>
+                </div>
+                    <a href="https://wa.me/054984248922" target="_blank" rel="noopener noreferrer">
+                      <button className="vvd"><span>Entre em Contato</span></button>
+                    </a>
             </span>
           </Navbar.Collapse>
         </Container>
