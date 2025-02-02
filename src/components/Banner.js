@@ -84,8 +84,9 @@ export const Banner = () => {
                     Concluindo o curso técnico em Informática, busco um estágio para aplicar
                     meus conhecimentos em HTML, CSS, JavaScript, Figma e Python adquiridos ao
                     longo desses quatro semestres. Tenho experiência em projetos focados em
-                    desenvolvimento web e front-end, mas adoraria me aprofundar em outras áreas e
-                    ter novas experiências.
+                    desenvolvimento web e front-end, ultimamente estou praticando ReactJS. 
+                    Gosto de aprender coisas novas e estou aberta a desafios que
+                    me permitam crescer e explorar diferentes áreas da tecnologia.
                   </p>
                   <button onClick={handleDownload} className="download-btn">
                     Baixar Currículo <ArrowRightCircle size={25} />
