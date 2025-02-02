@@ -429,7 +429,7 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   top: 0;
   left: 0;
   transition: 0.4s ease-in-out;
-  z-index: 1; /* Mantém o hover visível */
+  z-index: 2; /* Mantém o hover visível */
 }
 .proj-imgbx .proj-txtx {
   position: absolute;
@@ -440,17 +440,19 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   transition: 0.5s ease-in-out;
   opacity: 0;
   width: 100%;
-  z-index: 2; /* Mantém o texto acima do efeito */
+  z-index: 3; 
+  background-color: #ffffff;
+  color: #333;
 }
 
 .proj-imgbx:hover::before {
   visibility: visible; 
-  z-index: 2;
+  z-index: 1;
 }
 .proj-imgbx a {
   position: relative;
   display: block;
-  z-index: 2; 
+  z-index: 1; 
 }
 .proj-txtx {
   position: absolute;

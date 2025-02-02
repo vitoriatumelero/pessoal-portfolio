@@ -13,7 +13,7 @@ export const Projects = () => {
       title: "Loja Online Desktop",
       description: "E-Commerce",
       imgUrl: projImg1,
-      repoUrl: "https://github.com/vitoriatumelero/bebece-desktop"
+      repoUrl: "https://github.com/vitoriatumelero/E-Commerce-Moda"
     },
     {
       title: "Loja Online Mobile",
@@ -31,7 +31,7 @@ export const Projects = () => {
       title: "Loja Online Desktop",
       description: "E-Commerce",
       imgUrl: projImg1,
-      repoUrl: "https://github.com/vitoriatumelero/bebece-desktop"
+      repoUrl: "https://github.com/vitoriatumelero/E-Commerce-Moda"
     },
     {
       title: "Loja Online Mobile",
@@ -56,7 +56,7 @@ export const Projects = () => {
               {({ isVisible }) =>
               <div className={isVisible ? "animate__animated animate__fadeIn": ""}>
                 <h2>Projetos</h2>
-                <p>Meus projetos</p>
+                <p>Alguns dos meus últimos projetos em andamento, você pode conferir outros em meu github no início da página.</p>
                 <Tab.Container id="projects-tabs" defaultActiveKey="first">
                   <Nav variant="pills" className="nav-pills mb-5 justify-content-center align-items-center" id="pills-tab">
                     <Nav.Item>
