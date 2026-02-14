@@ -81,7 +81,7 @@ export const Banner = () => {
                     </span>
                   </h1>
                   <p>
-                     Ao concluir meu técnico em informática busquei aprimorar meus conhecimentos em banco de dados,
+                     Ao concluir meu técnico em Informática busquei aprimorar meus conhecimentos em banco de dados,
                      suporte, HTML, CSS, JavaScript e Python , lógica de programação no geral,
                      adquiridos ao longo desses quatro semestres. Realizei meu estágio onde pude colocar tudo isso 
                      em prática e aprender muito mais. Além do estágio, tenho experiência em projetos focados em 
